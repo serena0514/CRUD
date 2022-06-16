@@ -2,8 +2,10 @@
 
 Purpse:
 
-    this is a single key-value store in both TCP and UDP connections. 
+    this is a simple single-threaded key-value store in both TCP and UDP connections. 
     you can do PUT, GET, and DELETE to interact with the server
+    
+    You can continuously exchange and put request to interact with the server
 
 How to run:
 TCP
